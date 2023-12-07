@@ -1,3 +1,3 @@
 # thunder
 thunder and lightning on a arduino nano.
-Thus is a project in works and is not yet ready. 
+This is a project in the works and is not yet ready. 
